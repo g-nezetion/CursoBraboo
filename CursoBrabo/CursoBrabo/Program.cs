@@ -10,7 +10,7 @@ namespace CursoBrabo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("CURSO EH BRABO!!!!!!!!!!!!");
+            Console.WriteLine("CURSO EH BRABO!!!!!!?!!!!!!");
         }
     }
 }
